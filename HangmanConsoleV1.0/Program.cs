@@ -118,7 +118,6 @@ namespace HangmanConsoleV1._0
                     case 3:
                         #region "Highscore"
                         var highscore = new System.Text.StringBuilder();
-                        wh
                         #endregion
                         break;
                 }
