@@ -1,0 +1,7 @@
+-- Tutorial --
+--------------
+1. When you choose to play, you will be given sequence of word.
+2. Player will be given 8 chances to guess at the given word.
+3. Every wrong character guessed, player will lose 1 chance to guess.
+4. Should one player lost all chances to guess, they lost. Otherwise, player continue to another level.
+5. At the end of the game, player will be asked to write their name and their score will be shown.
